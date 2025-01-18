@@ -175,6 +175,7 @@
 | [0231-power-of-two](https://github.com/Abhik-Chakraborty/coding-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Abhik-Chakraborty/coding-/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0445-add-two-numbers-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
@@ -452,6 +453,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Abhik-Chakraborty/coding-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhik-Chakraborty/coding-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0445-add-two-numbers-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhik-Chakraborty/coding-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -468,6 +470,7 @@
 | [0234-palindrome-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
