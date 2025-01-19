@@ -16,6 +16,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhik-Chakraborty/coding-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Abhik-Chakraborty/coding-/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Abhik-Chakraborty/coding-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Abhik-Chakraborty/coding-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0053-maximum-subarray) |
@@ -233,6 +234,7 @@
 | [0027-remove-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abhik-Chakraborty/coding-/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Abhik-Chakraborty/coding-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Abhik-Chakraborty/coding-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0088-merge-sorted-array) |
@@ -333,6 +335,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhik-Chakraborty/coding-/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Abhik-Chakraborty/coding-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhik-Chakraborty/coding-/tree/master/0055-jump-game) |
@@ -446,6 +449,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Abhik-Chakraborty/coding-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -571,4 +575,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhik-Chakraborty/coding-/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abhik-Chakraborty/coding-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
