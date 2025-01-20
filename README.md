@@ -87,6 +87,7 @@
 | [2465-shifting-letters-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/2465-shifting-letters-ii) |
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhik-Chakraborty/coding-/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Abhik-Chakraborty/coding-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Abhik-Chakraborty/coding-/tree/master/2792-neighboring-bitwise-xor) |
@@ -158,6 +159,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhik-Chakraborty/coding-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abhik-Chakraborty/coding-/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Abhik-Chakraborty/coding-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -357,6 +359,7 @@
 | [0054-spiral-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0074-search-a-2d-matrix) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Abhik-Chakraborty/coding-/tree/master/2685-first-completely-painted-row-or-column) |
 ## Prefix Sum
 |  |
 | ------- |
