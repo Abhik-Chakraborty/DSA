@@ -18,10 +18,9 @@ public:
         queue<TreeNode*> q;
         q.push(root);
         int height = 0;
-
         while(!q.empty()){
-            int qSize = q.size();
-            for(int i = 0; i < qSize; i++){
+            int queueSize = q.size();
+            for(int i = 0; i < queueSize; i++){
                 TreeNode* temp = q.front();
                 q.pop();
 
