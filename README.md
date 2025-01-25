@@ -56,6 +56,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhik-Chakraborty/coding-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Abhik-Chakraborty/coding-/tree/master/0457-circular-array-loop) |
@@ -142,6 +143,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhik-Chakraborty/coding-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Abhik-Chakraborty/coding-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhik-Chakraborty/coding-/tree/master/0389-find-the-difference) |
@@ -179,6 +181,7 @@
 | [0202-happy-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhik-Chakraborty/coding-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhik-Chakraborty/coding-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Abhik-Chakraborty/coding-/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0445-add-two-numbers-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
@@ -559,6 +562,7 @@
 | [0155-min-stack](https://github.com/Abhik-Chakraborty/coding-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abhik-Chakraborty/coding-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhik-Chakraborty/coding-/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhik-Chakraborty/coding-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Counting Sort
 |  |
 | ------- |
@@ -594,4 +598,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/0022-generate-parentheses) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhik-Chakraborty/coding-/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
