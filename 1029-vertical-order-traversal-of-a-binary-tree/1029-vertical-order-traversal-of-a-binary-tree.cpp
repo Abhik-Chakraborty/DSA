@@ -12,45 +12,46 @@
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        map<int, vector<pair<int, int>>> columnMap; 
-        queue<pair<TreeNode*, pair<int, int>>> q; 
-        
-        if (root) {
-            q.push({root, {0, 0}}); 
-        }
-        
-        while (!q.empty()) {
-            auto [node, position] = q.front();
-            q.pop();
-            int row = position.first;
-            int col = position.second;
+        map<int, map<int, multiset<int>>> nodes;
+        queue<pair<TreeNode*, pair<int, int>>> todo;
+        todo.push({root, {0, 0}});
+
+        while(!todo.empty()){
+            auto p = todo.front();
+            todo.pop();
+            TreeNode* temp = p.first;
             
-            columnMap[col].push_back({row, node->val});
+            int x = p.second.first;  
+            int y = p.second.second; 
+            nodes[x][y].insert(temp->val);
             
-            if (node->left) {
-                q.push({node->left, {row + 1, col - 1}});
+            if(temp->left){
+                todo.push({
+                    temp->left,
+                    {
+                        x-1, 
+                        y+1  
+                    }
+                });
             }
-            if (node->right) {
-                q.push({node->right, {row + 1, col + 1}});
+            if(temp->right){
+                todo.push({
+                    temp->right, 
+                    {
+                        x+1, 
+                        y+1  
+                    }
+                });
             }
         }
-        
-        vector<vector<int>> result;
-        for (auto& [col, nodes] : columnMap) {
-            sort(nodes.begin(), nodes.end(), [](const pair<int, int>& a, const pair<int, int>& b) {
-                if (a.first == b.first) {
-                    return a.second < b.second;
-                }
-                return a.first < b.first;
-            });
-            
-            vector<int> colResult;
-            for (auto& [row, value] : nodes) {
-                colResult.push_back(value);
+        vector<vector<int>> ans;
+        for(auto p: nodes){
+            vector<int> col;
+            for(auto q: p.second){
+                col.insert(col.end(), q.second.begin(), q.second.end());
             }
-            result.push_back(colResult);
+            ans.push_back(col);
         }
-        
-        return result;
+        return ans;
     }
 };
