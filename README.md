@@ -98,6 +98,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Abhik-Chakraborty/coding-/tree/master/2792-neighboring-bitwise-xor) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3429-special-array-i) |
 ## Binary Search
 |  |
 | ------- |
