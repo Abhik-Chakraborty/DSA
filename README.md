@@ -67,6 +67,7 @@
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Abhik-Chakraborty/coding-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Abhik-Chakraborty/coding-/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhik-Chakraborty/coding-/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -517,6 +518,7 @@
 | [0134-gas-station](https://github.com/Abhik-Chakraborty/coding-/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abhik-Chakraborty/coding-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Abhik-Chakraborty/coding-/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Abhik-Chakraborty/coding-/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhik-Chakraborty/coding-/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
