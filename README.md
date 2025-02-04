@@ -85,6 +85,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhik-Chakraborty/coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhik-Chakraborty/coding-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhik-Chakraborty/coding-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhik-Chakraborty/coding-/tree/master/2292-counting-words-with-a-given-prefix) |
