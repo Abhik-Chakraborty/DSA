@@ -77,6 +77,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
+| [1364-tuple-with-same-product](https://github.com/Abhik-Chakraborty/coding-/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhik-Chakraborty/coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/1524-string-matching-in-an-array) |
@@ -163,6 +164,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/1034-subarrays-with-k-different-integers) |
+| [1364-tuple-with-same-product](https://github.com/Abhik-Chakraborty/coding-/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhik-Chakraborty/coding-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhik-Chakraborty/coding-/tree/master/1502-construct-k-palindrome-strings) |
@@ -554,6 +556,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhik-Chakraborty/coding-/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/1034-subarrays-with-k-different-integers) |
+| [1364-tuple-with-same-product](https://github.com/Abhik-Chakraborty/coding-/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhik-Chakraborty/coding-/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhik-Chakraborty/coding-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
