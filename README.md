@@ -446,6 +446,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -460,6 +461,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -472,6 +474,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -617,6 +620,7 @@
 | [0100-same-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0145-binary-tree-postorder-traversal) |
