@@ -108,6 +108,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhik-Chakraborty/coding-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3644-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -413,6 +414,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3644-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -440,6 +442,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2478-longest-nice-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/2478-longest-nice-subarray) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3644-minimum-positive-sum-subarray) |
 ## Tree
 |  |
 | ------- |
