@@ -1,22 +1,21 @@
 class Solution {
 public:
     int reverse(int x) {
-    int reversedNum = 0;
-    
-    while (x != 0) {
-        int digit = x % 10; 
-        x /= 10;            
-
-        if (reversedNum > INT_MAX / 10 || (reversedNum == INT_MAX / 10 && digit > 7)) {
-            return 0; 
+        int reverseNumber = 0;
+        bool isNegative = x < 0;
+        if(x == INT_MIN){
+            return 0;
         }
-        if (reversedNum < INT_MIN / 10 || (reversedNum == INT_MIN / 10 && digit < -8)) {
-            return 0; 
+        x = abs(x);
+        while( x > 0){
+            int lastDigit = x % 10; 
+            x = x / 10;
+            // Check for overflow before updating reverseNumber
+            if (reverseNumber > INT_MAX / 10 || (reverseNumber == INT_MAX / 10 && lastDigit > INT_MAX % 10)) {
+                return 0; // Return 0 if overflow happens
+            }
+            reverseNumber = (reverseNumber * 10) + lastDigit;
         }
-
-        reversedNum = reversedNum * 10 + digit;
-    }
-
-    return reversedNum;
+        return isNegative ? -reverseNumber : reverseNumber;
     }
 };
