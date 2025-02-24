@@ -1,19 +1,17 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if(x < 0 || (x % 10 == 0 && x != 0)){
-            return false;
+        int ogNumber = x;
+        int reverseNumber = 0;
+        while(x > 0){
+            int lastDigit = x % 10;
+            x = x / 10;
+            // Check for overflow before updating reverseNumber
+            if (reverseNumber > INT_MAX / 10 || (reverseNumber == INT_MAX / 10 && lastDigit > INT_MAX % 10)) {
+                return 0; // Return 0 if overflow happens
+            }
+            reverseNumber = (reverseNumber * 10) + lastDigit;
         }
-        string numStr = to_string(x);
-
-        int i = 0, j = numStr.size() - 1;
-            while (i < j) {
-                if (numStr[i] != numStr[j]) {
-                    return false;
-                }
-            i++;
-            j--;
-        }
-        return true;
+        return reverseNumber == ogNumber;
     }
 };
