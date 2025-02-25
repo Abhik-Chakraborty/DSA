@@ -1,17 +1,12 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        unordered_map<int, int> mpp;
-        int profit = 0;
         int minPrice = INT_MAX;
-
-        for(int i = 0; i < prices.size(); i++){
-            mpp[prices[i]]++;
-        }
+        int maxProfit = 0;
         for(int i = 0; i < prices.size(); i++){
             minPrice = min(minPrice, prices[i]);
-            profit = max(profit, prices[i] - minPrice);
+            maxProfit = max(maxProfit, prices[i] - minPrice);
         }
-        return profit;
+        return maxProfit;
     }
 };
