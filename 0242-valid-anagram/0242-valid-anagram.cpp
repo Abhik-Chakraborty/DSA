@@ -1,11 +1,11 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if(s.size() != t.size()){
+        if (s.size() != t.size()){
             return false;
         }
-        unordered_map<int, int> mpp;
 
+        unordered_map<char, int> mpp;
         for(int i = 0; i < s.size(); i++){
             mpp[s[i]]++;
         }
@@ -17,6 +17,5 @@ public:
             mpp[t[j]]--;
         }
         return true;
-        
     }
 };
