@@ -106,6 +106,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Abhik-Chakraborty/coding-/tree/master/2792-neighboring-bitwise-xor) |
+| [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -187,6 +188,7 @@
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhik-Chakraborty/coding-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhik-Chakraborty/coding-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -210,6 +212,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/2448-count-number-of-bad-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -402,6 +405,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Abhik-Chakraborty/coding-/tree/master/0289-game-of-life) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhik-Chakraborty/coding-/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
