@@ -3,7 +3,7 @@ public:
     int singleNumber(vector<int>& nums) {
         unordered_map<int, int> mpp;
         for(int i = 0; i < nums.size(); i++){
-            mpp[nums[i]]++; // storing the frequency // mpp[nums[i]] = i <-- this is storing with index
+            mpp[nums[i]]++;
         }
 
         for(auto it : mpp){
