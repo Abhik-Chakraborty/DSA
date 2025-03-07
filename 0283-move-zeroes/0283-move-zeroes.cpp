@@ -1,18 +1,21 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        vector<int> temp;
+        int j = -1;
+        //trying to get zero and point it to j pointer.
         for(int i = 0; i < nums.size(); i++){
-            if(nums[i] != 0){
-                temp.push_back(nums[i]); //[1, 3, 12]
+            if(nums[i] == 0){
+                j = i;
+                break;
             }
         }
-        int tempSize = temp.size();
-        for(int i = 0; i < tempSize; i++){
-            nums[i] = temp[i];
-        }
-        for(int i = tempSize; i < nums.size(); i++){
-            nums[i] = 0;
+        if(j == -1) return;
+        // I got j's pos
+        for(int i = j + 1; i < nums.size(); i++){
+            if(nums[i] != 0){
+                swap(nums[i], nums[j]);
+                j++;
+            }
         }
 
     }
