@@ -11,7 +11,7 @@ public:
                 }
                 count++;
             }
-            else if(s[i] == ')'){
+            else{
                 count--;
                 if(count > 0){
                     result += s[i];
@@ -19,6 +19,5 @@ public:
             }
         }
         return result;
-        
     }
 };
