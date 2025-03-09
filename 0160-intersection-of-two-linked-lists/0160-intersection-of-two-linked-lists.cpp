@@ -8,36 +8,20 @@
  */
 class Solution {
 public:
-    void insertNode(ListNode* &head,int val) {
-        ListNode* newNode = new ListNode(val);
-        
-        if(head == NULL) {
-            head = newNode;
-            return;
-        }
-        
-        ListNode* temp = head;
-        while(temp->next != NULL) temp = temp->next;
-        
-        temp->next = newNode;
-        return;
-    }
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        ListNode* d1 = headA;
-        ListNode* d2 = headB;
-        
-        while(d1 != d2) {
-            d1 = d1 == NULL? headB:d1->next;
-            d2 = d2 == NULL? headA:d2->next;
+        map<ListNode* , int> mpp;
+        ListNode* temp = headA;
+        while(temp != NULL){
+            mpp[temp] = 1;
+            temp = temp->next;
         }
-        
-        return d1;
+        temp = headB;
+        while(temp != NULL){
+            if(mpp.find(temp) != mpp.end()){
+                return temp;
+            }
+            temp = temp->next;
+        }
+        return NULL;
     }
-    void printList(ListNode* head) {
-        while(head->next != NULL) {
-            cout<<head->val<<"->";
-            head = head->next;
-        }
-        cout<<head->val<<endl;
-    }   
 };
