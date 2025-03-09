@@ -1,9 +1,8 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        vector<string> words;
         string temp;
-
+        vector<string> words;
         for(int i = 0; i < s.size(); i++){
             if(s[i] != ' '){
                 temp += s[i];
@@ -16,10 +15,8 @@ public:
             }
         }
         if(!temp.empty()){
-            words.push_back(temp);
+            words.push_back(temp); // words = the,sky,is,blue
         }
-
-        //reverse
         string result;
         for(int i = words.size() - 1; i >= 0; i--){
             result += words[i];
@@ -30,6 +27,5 @@ public:
 
         }
         return result;
-        
     }
 };
