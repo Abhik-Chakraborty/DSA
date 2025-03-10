@@ -33,6 +33,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Abhik-Chakraborty/coding-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhik-Chakraborty/coding-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -432,6 +433,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
@@ -463,6 +465,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -491,6 +494,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -678,4 +682,8 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhik-Chakraborty/coding-/tree/master/2610-closest-prime-numbers-in-range) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
