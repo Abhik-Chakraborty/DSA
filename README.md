@@ -302,6 +302,7 @@
 | [0443-string-compression](https://github.com/Abhik-Chakraborty/coding-/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Abhik-Chakraborty/coding-/tree/master/0457-circular-array-loop) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -558,6 +559,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0445-add-two-numbers-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
