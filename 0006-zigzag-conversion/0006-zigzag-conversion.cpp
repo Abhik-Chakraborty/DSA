@@ -1,25 +1,27 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1) return s;
-        vector<string> rows(min(numRows, int(s.length())));
+        if (numRows == 1) return s; 
 
-        int currentRow = 0;
-        bool goingDown = false;
+        vector<string> rows(numRows, "");
 
-        for (char c : s) {
-            rows[currentRow] += c;
-            if (currentRow == 0 || currentRow == numRows - 1) {
-                goingDown = !goingDown;
-            }
-            currentRow += goingDown ? 1 : -1;
-        }
-
-        string result;
-        for (const string& row : rows) {
-            result += row;
-        }
+        int i = 0;
+        int n = s.length();
         
+        while (i < n) {
+            for (int row = 0; row < numRows && i < n; row++) {
+                rows[row] += s[i++];
+            }
+            for (int row = numRows - 2; row >= 1 && i < n; row--) {
+                rows[row] += s[i++];
+            }
+        }
+
+        string result = "";
+        for (int row = 0; row < numRows; row++) {
+            result += rows[row];
+        }
+
         return result;
     }
 };
