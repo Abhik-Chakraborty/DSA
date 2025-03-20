@@ -78,6 +78,7 @@
 | [0890-lemonade-change](https://github.com/Abhik-Chakraborty/coding-/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Abhik-Chakraborty/coding-/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Abhik-Chakraborty/coding-/tree/master/0952-word-subsets) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
@@ -405,6 +406,7 @@
 | [0392-is-subsequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
@@ -445,6 +447,7 @@
 | [0148-sort-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -635,6 +638,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Abhik-Chakraborty/coding-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhik-Chakraborty/coding-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0954-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -706,4 +710,8 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0538-convert-bst-to-greater-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
