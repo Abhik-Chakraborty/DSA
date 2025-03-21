@@ -10,29 +10,25 @@
  */
 class Solution {
 public:
-    ListNode* vectorToList(const vector<int>& values){
-        if(values.empty()) return NULL;
-
-        ListNode* head = new ListNode(values[0]);
-        ListNode* current = head;
-        for(int i = 1; i < values.size(); i++) {
-            current -> next = new ListNode(values[i]);
-            current = current -> next;
-        }
-        return head;
-    }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        vector<int> values;
-
+        priority_queue<pair<int, ListNode*>, vector<pair<int, ListNode*>>, greater<pair<int, ListNode*>>> pq;
         for(int i = 0; i < lists.size(); i++){
-            ListNode* current = lists[i];
-            while(current != NULL){
-                values.push_back(current -> val);
-                current = current -> next;
+            if(lists[i]){
+                pq.push({lists[i] -> val, lists[i]});
             }
         }
-        sort(values.begin(), values.end());
+        ListNode* dummyNode = new ListNode(-1);
+        ListNode* temp = dummyNode;
 
-        return vectorToList(values);
+        while(!pq.empty()){
+            auto it = pq.top();
+            pq.pop();
+            if(it.second -> next){
+                pq.push({it.second -> next -> val, it.second -> next});
+            }
+            temp -> next = it.second;
+            temp = temp ->next;
+        }
+        return dummyNode -> next;
     }
 };
