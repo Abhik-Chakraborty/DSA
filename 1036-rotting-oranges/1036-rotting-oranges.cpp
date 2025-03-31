@@ -3,46 +3,48 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        
-        queue<pair<int, int>> q; 
-        int fresh = 0;           
+        vector<vector<int>> vis(m, vector<int>(n,0)); //visited array 
+        queue<pair<pair<int,int>, int>> q; // {{row, col}, time}
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 2) {
-                    q.push({i, j});
-                } else if (grid[i][j] == 1) {
-                    fresh++;
+        //Initailly we need to find the already rotten orgenges, and push them into the queue.
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(grid[i][j] == 2){
+                    q.push({{i, j}, 0});
+                    vis[i][j] = 1;
+                }else{
+                    vis[i][j] = 0;
                 }
             }
         }
-
-        if (fresh == 0) return 0;
-
-        int minutes = -1;
-        int dx[] = {-1, 1, 0, 0};
-        int dy[] = {0, 0, -1, 1};
-
-        while (!q.empty()) {
-            int sz = q.size();
-            minutes++; 
-            for (int i = 0; i < sz; i++) {
-                auto [x, y] = q.front();
-                q.pop();
-
-                for (int d = 0; d < 4; d++) {
-                    int nx = x + dx[d];
-                    int ny = y + dy[d];
-
-                    if (nx >= 0 && nx < m && ny >= 0 && ny < n && grid[nx][ny] == 1) {
-                        grid[nx][ny] = 2; 
-                        q.push({nx, ny});
-                        fresh--; 
-                    }
+        int maxTime = 0;
+        int drow[] = {-1, 0, +1, 0};
+        int dcol[] = {0, 1, 0, -1};
+        while(!q.empty()){
+            // {{row, col}, time}
+            int row = q.front().first.first; 
+            int col = q.front().first.second; 
+            int time = q.front().second;
+            maxTime = max(maxTime, time);
+            q.pop();
+            for(int i = 0; i < 4; i++){
+                int nrow = row + drow[i]; // neighbour row
+                int ncol = col + dcol[i]; //neighbour col
+                if(nrow >= 0 && nrow < m && ncol >= 0 && ncol < n
+                    && vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1)                  
+                { 
+                    q.push({{nrow, ncol}, time + 1});
+                    vis[nrow][ncol] = 1;
                 }
             }
         }
-
-        return fresh == 0 ? minutes : -1;
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(vis[i][j] == 0 && grid[i][j] == 1){
+                    return -1;
+                }
+            }
+        }
+        return maxTime;
     }
 };
