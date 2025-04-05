@@ -1,41 +1,24 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int lowRow = 0;
-        int highRow = matrix.size() - 1;
-        
-        while (lowRow < highRow) {
-            int mid = lowRow + (highRow - lowRow) / 2;
-            if (matrix[mid][0] == target) {
+        int n = matrix.size(); 
+        int m = matrix[0].size();
+        int start = 0;
+        int end = n * m - 1;
+        while(start <= end){
+            int mid = (start + end) /2;
+            int row = mid/m;
+            int col = mid % m;
+            if(matrix[row][col] == target){
                 return true;
             }
-            if (matrix[mid][0] < target && target < matrix[mid + 1][0]) {
-                lowRow = mid;
-                break;
+            else if(matrix[row][col] < target){
+                start = mid + 1;
             }
-            if (matrix[mid][0] < target) {
-                lowRow = mid + 1;
-            } else {
-                highRow = mid - 1;
+            else{
+                end = mid - 1;
             }
         }
-        
-        int lowCol = 0;
-        int highCol = matrix[0].size() - 1;
-        
-        while (lowCol <= highCol) {
-            int mid = lowCol + (highCol - lowCol) / 2;
-            if (matrix[lowRow][mid] == target) {
-                return true;
-            }
-            if (matrix[lowRow][mid] < target) {
-                lowCol = mid + 1;
-            } else {
-                highCol = mid - 1;
-            }
-        }
-        
         return false;
-        
     }
 };
