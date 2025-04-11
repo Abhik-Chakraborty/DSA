@@ -232,6 +232,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhik-Chakraborty/coding-/tree/master/2610-closest-prime-numbers-in-range) |
+| [2998-count-symmetric-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -804,4 +805,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Abhik-Chakraborty/coding-/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
