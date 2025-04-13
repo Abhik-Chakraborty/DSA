@@ -230,6 +230,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0445-add-two-numbers-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhik-Chakraborty/coding-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2998-count-symmetric-integers) |
@@ -708,6 +709,7 @@
 | [0206-reverse-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abhik-Chakraborty/coding-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2050-count-good-numbers) |
 ## Merge Sort
 |  |
 | ------- |
