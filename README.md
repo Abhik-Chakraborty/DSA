@@ -70,6 +70,7 @@
 | [0485-max-consecutive-ones](https://github.com/Abhik-Chakraborty/coding-/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Abhik-Chakraborty/coding-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/0643-maximum-average-subarray-i) |
@@ -421,6 +422,7 @@
 | [0152-maximum-product-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -433,6 +435,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Abhik-Chakraborty/coding-/tree/master/0289-game-of-life) |
+| [0542-01-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/1036-rotting-oranges) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhik-Chakraborty/coding-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/Abhik-Chakraborty/coding-/tree/master/2737-row-with-maximum-ones) |
@@ -532,6 +535,7 @@
 | [0112-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhik-Chakraborty/coding-/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Abhik-Chakraborty/coding-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0998-check-completeness-of-a-binary-tree) |
