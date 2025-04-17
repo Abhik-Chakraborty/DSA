@@ -163,6 +163,7 @@
 | [0041-first-missing-positive](https://github.com/Abhik-Chakraborty/coding-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Abhik-Chakraborty/coding-/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Abhik-Chakraborty/coding-/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Abhik-Chakraborty/coding-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Abhik-Chakraborty/coding-/tree/master/0141-linked-list-cycle) |
@@ -353,6 +354,7 @@
 | [0067-add-binary](https://github.com/Abhik-Chakraborty/coding-/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Abhik-Chakraborty/coding-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Abhik-Chakraborty/coding-/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Abhik-Chakraborty/coding-/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhik-Chakraborty/coding-/tree/master/0242-valid-anagram) |
@@ -540,6 +542,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Abhik-Chakraborty/coding-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Abhik-Chakraborty/coding-/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhik-Chakraborty/coding-/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0515-find-largest-value-in-each-tree-row) |
