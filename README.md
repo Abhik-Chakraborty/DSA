@@ -550,6 +550,7 @@
 | [0547-number-of-provinces](https://github.com/Abhik-Chakraborty/coding-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Abhik-Chakraborty/coding-/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Abhik-Chakraborty/coding-/tree/master/0801-is-graph-bipartite) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/1036-rotting-oranges) |
@@ -607,6 +608,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Abhik-Chakraborty/coding-/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Abhik-Chakraborty/coding-/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Abhik-Chakraborty/coding-/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1073-number-of-enclaves) |
 ## Stack
 |  |
@@ -770,6 +772,7 @@
 | [0547-number-of-provinces](https://github.com/Abhik-Chakraborty/coding-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Abhik-Chakraborty/coding-/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Abhik-Chakraborty/coding-/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -829,6 +832,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Abhik-Chakraborty/coding-/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Abhik-Chakraborty/coding-/tree/master/0801-is-graph-bipartite) |
 ## Enumeration
 |  |
 | ------- |
