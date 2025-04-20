@@ -1,42 +1,41 @@
 class Solution {
 public:
-    bool dfs(int node, vector<vector<int>>& adj, vector<int>& vis, vector<int>& pathVis, vector<int>& result){
-        vis[node] = 1;
-        pathVis[node] = 1;
-        for(auto it : adj[node]){
-            if(!vis[it]){
-                if(dfs(it, adj, vis, pathVis, result) == true){
-                    return true;
-                }
-            }
-            else if(pathVis[it]){
-                return true;
-            }
-        }
-        pathVis[node] = 0;
-        result.push_back(node);
-        return false;
-    }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        for (const auto& prereq : prerequisites) {
-            adj[prereq[1]].push_back(prereq[0]);  
+        int V = numCourses;
+        vector<int> adj[V];
+        for(auto it : prerequisites){
+            adj[it[1]].push_back(it[0]);
         }
 
-        vector<int> vis(numCourses, 0);  
-        vector<int> pathVis(numCourses, 0);  
-        vector<int> result;  
-
-        for (int i = 0; i < numCourses; i++) {
-            if (!vis[i]) {
-                if (dfs(i, adj, vis, pathVis, result)) {
-                    return {};  
-                }
+        vector<int> indegree(V, 0);
+        for(int i = 0; i < V; i++){
+            for(auto it : adj[i]){
+                indegree[it]++;
+            }
+        }
+        queue<int> q;
+        for(int i = 0; i < V; i++){
+            if(indegree[i] == 0){
+                q.push(i);
             }
         }
 
-        reverse(result.begin(), result.end());
-        return result;
+        vector<int> topo;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            topo.push_back(node);
 
+            for(auto it : adj[node]){
+                indegree[it]--;
+                if(indegree[it] == 0){
+                    q.push(it);
+                }
+            }
+        }
+        if(topo.size() == V){
+            return topo;
+        }
+        return {};
     }
 };
