@@ -553,6 +553,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Abhik-Chakraborty/coding-/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Abhik-Chakraborty/coding-/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Abhik-Chakraborty/coding-/tree/master/0820-find-eventual-safe-states) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/1036-rotting-oranges) |
@@ -777,6 +778,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Abhik-Chakraborty/coding-/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Abhik-Chakraborty/coding-/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Abhik-Chakraborty/coding-/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -839,6 +841,7 @@
 | [0210-course-schedule-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Abhik-Chakraborty/coding-/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Abhik-Chakraborty/coding-/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Abhik-Chakraborty/coding-/tree/master/0820-find-eventual-safe-states) |
 ## Enumeration
 |  |
 | ------- |
@@ -849,4 +852,5 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Abhik-Chakraborty/coding-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Abhik-Chakraborty/coding-/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
