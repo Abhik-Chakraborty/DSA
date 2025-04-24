@@ -119,6 +119,7 @@
 | [2737-row-with-maximum-ones](https://github.com/Abhik-Chakraborty/coding-/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Abhik-Chakraborty/coding-/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -210,6 +211,7 @@
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhik-Chakraborty/coding-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhik-Chakraborty/coding-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -501,6 +503,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2478-longest-nice-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/2478-longest-nice-subarray) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3644-minimum-positive-sum-subarray) |
 ## Tree
 |  |
