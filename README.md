@@ -97,6 +97,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/Abhik-Chakraborty/coding-/tree/master/1656-count-good-triplets) |
 | [1705-count-unhappy-friends](https://github.com/Abhik-Chakraborty/coding-/tree/master/1705-count-unhappy-friends) |
+| [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhik-Chakraborty/coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhik-Chakraborty/coding-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -154,6 +155,7 @@
 | [0907-koko-eating-bananas](https://github.com/Abhik-Chakraborty/coding-/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhik-Chakraborty/coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhik-Chakraborty/coding-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -452,6 +454,7 @@
 | [1036-rotting-oranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhik-Chakraborty/coding-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/Abhik-Chakraborty/coding-/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
@@ -568,6 +571,7 @@
 | [1073-number-of-enclaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -622,6 +626,7 @@
 | [0547-number-of-provinces](https://github.com/Abhik-Chakraborty/coding-/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Abhik-Chakraborty/coding-/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 ## Stack
 |  |
 | ------- |
@@ -696,6 +701,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhik-Chakraborty/coding-/tree/master/0451-sort-characters-by-frequency) |
+| [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -791,6 +797,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 ## Rolling Hash
 |  |
 | ------- |
