@@ -446,6 +446,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhik-Chakraborty/coding-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhik-Chakraborty/coding-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -880,6 +881,7 @@
 | [0801-is-graph-bipartite](https://github.com/Abhik-Chakraborty/coding-/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhik-Chakraborty/coding-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Abhik-Chakraborty/coding-/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhik-Chakraborty/coding-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Enumeration
 |  |
 | ------- |
@@ -891,9 +893,11 @@
 | [0207-course-schedule](https://github.com/Abhik-Chakraborty/coding-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Abhik-Chakraborty/coding-/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhik-Chakraborty/coding-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Abhik-Chakraborty/coding-/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhik-Chakraborty/coding-/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhik-Chakraborty/coding-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
