@@ -347,6 +347,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0868-push-dominoes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Abhik-Chakraborty/coding-/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -389,6 +390,7 @@
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Abhik-Chakraborty/coding-/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhik-Chakraborty/coding-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -447,6 +449,7 @@
 | [0542-01-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhik-Chakraborty/coding-/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0868-push-dominoes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0868-push-dominoes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhik-Chakraborty/coding-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
