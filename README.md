@@ -137,6 +137,7 @@
 | [3430-count-days-without-meetings](https://github.com/Abhik-Chakraborty/coding-/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhik-Chakraborty/coding-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3644-minimum-positive-sum-subarray) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abhik-Chakraborty/coding-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Abhik-Chakraborty/coding-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -475,6 +476,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhik-Chakraborty/coding-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/Abhik-Chakraborty/coding-/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -731,6 +733,7 @@
 | [0744-network-delay-time](https://github.com/Abhik-Chakraborty/coding-/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhik-Chakraborty/coding-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -897,6 +900,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Abhik-Chakraborty/coding-/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhik-Chakraborty/coding-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhik-Chakraborty/coding-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -916,4 +920,5 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhik-Chakraborty/coding-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhik-Chakraborty/coding-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhik-Chakraborty/coding-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
