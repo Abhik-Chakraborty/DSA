@@ -47,6 +47,7 @@
 | [0162-find-peak-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhik-Chakraborty/coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhik-Chakraborty/coding-/tree/master/0217-contains-duplicate) |
@@ -248,6 +249,7 @@
 | [0067-add-binary](https://github.com/Abhik-Chakraborty/coding-/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Abhik-Chakraborty/coding-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhik-Chakraborty/coding-/tree/master/0380-insert-delete-getrandom-o1) |
@@ -863,6 +865,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhik-Chakraborty/coding-/tree/master/2610-closest-prime-numbers-in-range) |
 ## Binary Search Tree
 |  |
@@ -904,6 +907,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Abhik-Chakraborty/coding-/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2998-count-symmetric-integers) |
 ## Topological Sort
