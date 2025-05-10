@@ -380,6 +380,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhik-Chakraborty/coding-/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Abhik-Chakraborty/coding-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Abhik-Chakraborty/coding-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -562,6 +563,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhik-Chakraborty/coding-/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0538-convert-bst-to-greater-tree) |
@@ -627,6 +629,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhik-Chakraborty/coding-/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0538-convert-bst-to-greater-tree) |
@@ -824,6 +827,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhik-Chakraborty/coding-/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0543-diameter-of-binary-tree) |
@@ -860,6 +864,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Abhik-Chakraborty/coding-/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/Abhik-Chakraborty/coding-/tree/master/0257-binary-tree-paths) |
 ## Randomized
 |  |
 | ------- |
