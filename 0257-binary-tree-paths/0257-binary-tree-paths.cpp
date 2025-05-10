@@ -26,6 +26,8 @@ public:
         if(!path.empty()){
             path += "->";
         }
+
+
         path += to_string(root->val);
 
         if(root -> left == NULL && root -> right == NULL){
