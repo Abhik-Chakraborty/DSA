@@ -92,6 +92,7 @@
 | [1073-number-of-enclaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/Abhik-Chakraborty/coding-/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/Abhik-Chakraborty/coding-/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhik-Chakraborty/coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
