@@ -137,6 +137,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/Abhik-Chakraborty/coding-/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Abhik-Chakraborty/coding-/tree/master/3430-count-days-without-meetings) |
@@ -269,6 +270,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhik-Chakraborty/coding-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Abhik-Chakraborty/coding-/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -318,6 +320,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3321-type-of-triangle](https://github.com/Abhik-Chakraborty/coding-/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Abhik-Chakraborty/coding-/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
