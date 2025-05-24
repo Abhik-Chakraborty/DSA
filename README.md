@@ -133,6 +133,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2915-count-of-interesting-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhik-Chakraborty/coding-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/Abhik-Chakraborty/coding-/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhik-Chakraborty/coding-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -431,6 +432,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/Abhik-Chakraborty/coding-/tree/master/2427-first-letter-to-appear-twice) |
 | [2465-shifting-letters-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3194-find-words-containing-character](https://github.com/Abhik-Chakraborty/coding-/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Abhik-Chakraborty/coding-/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/3455-minimum-length-of-string-after-operations) |
