@@ -10,42 +10,36 @@
  */
 class Solution {
 public:
-
     void reorderList(ListNode* head) {
-        if(!head || !head->next || !head->next->next){
-            return;
-        }
-
+        //1st step -> find the mid;
         ListNode* slow = head;
         ListNode* fast = head;
-        while(fast -> next && fast->next->next){
-            slow = slow->next;
+        while(fast -> next != NULL && fast->next->next != NULL){
             fast = fast->next->next;
+            slow = slow->next; // we have our mid
         }
 
+        //2nd step -> from mid reverse
         ListNode* prev = NULL;
-        ListNode* curr = slow -> next;
-        while(curr){
-            ListNode* nextTemp = curr -> next;
-            curr -> next = prev;
+        ListNode* curr = slow->next;
+        while(curr != NULL){
+            ListNode* nextNode = curr->next;
+            curr->next = prev;
             prev = curr;
-            curr = nextTemp;
+            curr = nextNode;
         }
-        slow -> next = NULL; //split the list
+        slow -> next = NULL;
 
-
+        //3rd step -> joining;
         ListNode* first = head;
         ListNode* second = prev;
-        while(second){
-            ListNode* temp1 = first -> next;
-            ListNode* temp2 = second -> next;
-
-            first -> next = second;
-            second -> next = temp1;
-
+        while(second != NULL){
+            ListNode* temp1 = first->next;
+            ListNode* temp2 = second->next;
+            first->next = second;
+            second->next = temp1;
             first = temp1;
             second = temp2;
         }
     }
-
 };
