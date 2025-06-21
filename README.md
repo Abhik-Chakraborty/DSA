@@ -242,6 +242,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Abhik-Chakraborty/coding-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhik-Chakraborty/coding-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -324,6 +325,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/Abhik-Chakraborty/coding-/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Abhik-Chakraborty/coding-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Abhik-Chakraborty/coding-/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
@@ -437,6 +439,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/Abhik-Chakraborty/coding-/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Abhik-Chakraborty/coding-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/Abhik-Chakraborty/coding-/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3684-substring-matching-pattern](https://github.com/Abhik-Chakraborty/coding-/tree/master/3684-substring-matching-pattern) |
@@ -754,6 +757,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhik-Chakraborty/coding-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Abhik-Chakraborty/coding-/tree/master/2509-minimize-xor) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhik-Chakraborty/coding-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Abhik-Chakraborty/coding-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Trie
 |  |
 | ------- |
@@ -795,6 +799,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhik-Chakraborty/coding-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Abhik-Chakraborty/coding-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Quickselect
 |  |
