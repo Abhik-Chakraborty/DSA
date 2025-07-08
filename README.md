@@ -109,6 +109,7 @@
 | [1705-count-unhappy-friends](https://github.com/Abhik-Chakraborty/coding-/tree/master/1705-count-unhappy-friends) |
 | [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhik-Chakraborty/coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhik-Chakraborty/coding-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -179,6 +180,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhik-Chakraborty/coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhik-Chakraborty/coding-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhik-Chakraborty/coding-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -325,6 +327,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhik-Chakraborty/coding-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Abhik-Chakraborty/coding-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -488,6 +491,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0954-maximum-sum-circular-subarray) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhik-Chakraborty/coding-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhik-Chakraborty/coding-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
