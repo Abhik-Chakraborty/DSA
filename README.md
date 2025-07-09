@@ -154,6 +154,7 @@
 | [3644-minimum-positive-sum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3644-minimum-positive-sum-subarray) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abhik-Chakraborty/coding-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Abhik-Chakraborty/coding-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -573,6 +574,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Abhik-Chakraborty/coding-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3644-minimum-positive-sum-subarray) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Tree
 |  |
 | ------- |
@@ -772,6 +774,7 @@
 | [2509-minimize-xor](https://github.com/Abhik-Chakraborty/coding-/tree/master/2509-minimize-xor) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhik-Chakraborty/coding-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Abhik-Chakraborty/coding-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Trie
 |  |
 | ------- |
