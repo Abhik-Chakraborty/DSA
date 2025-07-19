@@ -96,6 +96,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Abhik-Chakraborty/coding-/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhik-Chakraborty/coding-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Abhik-Chakraborty/coding-/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhik-Chakraborty/coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -430,6 +431,7 @@
 | [0868-push-dominoes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Abhik-Chakraborty/coding-/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/1078-remove-outermost-parentheses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhik-Chakraborty/coding-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhik-Chakraborty/coding-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhik-Chakraborty/coding-/tree/master/1502-construct-k-palindrome-strings) |
@@ -783,6 +785,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhik-Chakraborty/coding-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |
@@ -903,6 +906,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhik-Chakraborty/coding-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 ## Rolling Hash
 |  |
