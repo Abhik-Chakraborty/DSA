@@ -260,6 +260,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abhik-Chakraborty/coding-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abhik-Chakraborty/coding-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -467,6 +468,7 @@
 | [3447-clear-digits](https://github.com/Abhik-Chakraborty/coding-/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3684-substring-matching-pattern](https://github.com/Abhik-Chakraborty/coding-/tree/master/3684-substring-matching-pattern) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abhik-Chakraborty/coding-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
@@ -837,6 +839,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhik-Chakraborty/coding-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Abhik-Chakraborty/coding-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abhik-Chakraborty/coding-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
 | ------- |
