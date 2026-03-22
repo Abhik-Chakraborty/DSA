@@ -122,6 +122,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhik-Chakraborty/coding-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhik-Chakraborty/coding-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2350-find-closest-number-to-zero](https://github.com/Abhik-Chakraborty/coding-/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -249,6 +250,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhik-Chakraborty/coding-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/2308-divide-array-into-equal-pairs) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhik-Chakraborty/coding-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abhik-Chakraborty/coding-/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
@@ -345,6 +347,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2215-finding-3-digit-even-numbers) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhik-Chakraborty/coding-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -814,6 +817,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhik-Chakraborty/coding-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhik-Chakraborty/coding-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhik-Chakraborty/coding-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Bucket Sort
 |  |
