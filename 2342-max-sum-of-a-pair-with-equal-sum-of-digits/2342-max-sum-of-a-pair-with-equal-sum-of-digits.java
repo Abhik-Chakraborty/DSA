@@ -1,16 +1,17 @@
 class Solution {
     public int maximumSum(int[] nums) {
-        int[] best = new int[82];
+        // int[] best = new int[82];
+        Map<Integer, Integer> map = new HashMap<>();
 
         int ans = -1;
 
         for(int num : nums){
             int sum = digitSum(num);
 
-            if(best[sum] != 0){
-                ans = Math.max(ans, best[sum] + num);
+            if(map.containsKey(sum)){
+                ans = Math.max(ans, map.get(sum) + num);
             }
-            best[sum] = Math.max(best[sum], num);
+            map.put(sum, Math.max(map.getOrDefault(sum, 0), num));
         }
         return ans;
     }
