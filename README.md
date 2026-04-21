@@ -109,6 +109,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhik-Chakraborty/coding-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/Abhik-Chakraborty/coding-/tree/master/1656-count-good-triplets) |
 | [1705-count-unhappy-friends](https://github.com/Abhik-Chakraborty/coding-/tree/master/1705-count-unhappy-friends) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -936,6 +937,7 @@
 | [1073-number-of-enclaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhik-Chakraborty/coding-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 ## Rolling Hash
 |  |
@@ -1041,4 +1043,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/3790-fruits-into-baskets-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
