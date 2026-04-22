@@ -132,6 +132,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/2448-count-number-of-bad-pairs) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhik-Chakraborty/coding-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2465-shifting-letters-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/2478-longest-nice-subarray) |
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
@@ -473,6 +474,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhik-Chakraborty/coding-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abhik-Chakraborty/coding-/tree/master/2427-first-letter-to-appear-twice) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhik-Chakraborty/coding-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2465-shifting-letters-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/Abhik-Chakraborty/coding-/tree/master/3194-find-words-containing-character) |
@@ -812,6 +814,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0014-longest-common-prefix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhik-Chakraborty/coding-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhik-Chakraborty/coding-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |
