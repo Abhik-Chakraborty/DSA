@@ -141,6 +141,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhik-Chakraborty/coding-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhik-Chakraborty/coding-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/Abhik-Chakraborty/coding-/tree/master/2615-sum-of-distances) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhik-Chakraborty/coding-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/Abhik-Chakraborty/coding-/tree/master/2737-row-with-maximum-ones) |
@@ -260,6 +261,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/Abhik-Chakraborty/coding-/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
+| [2615-sum-of-distances](https://github.com/Abhik-Chakraborty/coding-/tree/master/2615-sum-of-distances) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhik-Chakraborty/coding-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -564,6 +566,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/2465-shifting-letters-ii) |
+| [2615-sum-of-distances](https://github.com/Abhik-Chakraborty/coding-/tree/master/2615-sum-of-distances) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2915-count-of-interesting-subarrays) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3644-minimum-positive-sum-subarray) |
