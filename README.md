@@ -1057,4 +1057,8 @@
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Abhik-Chakraborty/coding-/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
