@@ -103,6 +103,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhik-Chakraborty/coding-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhik-Chakraborty/coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhik-Chakraborty/coding-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhik-Chakraborty/coding-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhik-Chakraborty/coding-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -193,6 +194,7 @@
 | [0907-koko-eating-bananas](https://github.com/Abhik-Chakraborty/coding-/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhik-Chakraborty/coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhik-Chakraborty/coding-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhik-Chakraborty/coding-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -351,6 +353,7 @@
 | [0900-reordered-power-of-2](https://github.com/Abhik-Chakraborty/coding-/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhik-Chakraborty/coding-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhik-Chakraborty/coding-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Abhik-Chakraborty/coding-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -409,6 +412,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0868-push-dominoes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0908-middle-of-the-linked-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhik-Chakraborty/coding-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Abhik-Chakraborty/coding-/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
