@@ -457,6 +457,7 @@
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Abhik-Chakraborty/coding-/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Abhik-Chakraborty/coding-/tree/master/0952-word-subsets) |
@@ -498,6 +499,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Abhik-Chakraborty/coding-/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhik-Chakraborty/coding-/tree/master/2292-counting-words-with-a-given-prefix) |
