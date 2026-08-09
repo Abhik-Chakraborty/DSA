@@ -219,6 +219,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Abhik-Chakraborty/coding-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Abhik-Chakraborty/coding-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Abhik-Chakraborty/coding-/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhik-Chakraborty/coding-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0205-isomorphic-strings) |
@@ -793,6 +794,7 @@
 | [0141-linked-list-cycle](https://github.com/Abhik-Chakraborty/coding-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Abhik-Chakraborty/coding-/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhik-Chakraborty/coding-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0206-reverse-linked-list) |
@@ -913,6 +915,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Abhik-Chakraborty/coding-/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Abhik-Chakraborty/coding-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Abhik-Chakraborty/coding-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Abhik-Chakraborty/coding-/tree/master/0225-implement-stack-using-queues) |
@@ -1076,4 +1079,8 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Abhik-Chakraborty/coding-/tree/master/0176-second-highest-salary) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Abhik-Chakraborty/coding-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
