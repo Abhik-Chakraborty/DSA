@@ -454,6 +454,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhik-Chakraborty/coding-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Abhik-Chakraborty/coding-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhik-Chakraborty/coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Abhik-Chakraborty/coding-/tree/master/0443-string-compression) |
@@ -772,6 +773,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Abhik-Chakraborty/coding-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhik-Chakraborty/coding-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -909,6 +911,7 @@
 | [0231-power-of-two](https://github.com/Abhik-Chakraborty/coding-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Abhik-Chakraborty/coding-/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/Abhik-Chakraborty/coding-/tree/master/2050-count-good-numbers) |
 ## Merge Sort
 |  |
