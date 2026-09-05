@@ -89,6 +89,7 @@
 | [0952-word-subsets](https://github.com/Abhik-Chakraborty/coding-/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/Abhik-Chakraborty/coding-/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Abhik-Chakraborty/coding-/tree/master/1036-rotting-oranges) |
@@ -194,6 +195,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhik-Chakraborty/coding-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Abhik-Chakraborty/coding-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Abhik-Chakraborty/coding-/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhik-Chakraborty/coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhik-Chakraborty/coding-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -574,6 +576,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Abhik-Chakraborty/coding-/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -611,6 +614,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhik-Chakraborty/coding-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
