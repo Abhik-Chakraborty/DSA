@@ -246,6 +246,7 @@
 | [0457-circular-array-loop](https://github.com/Abhik-Chakraborty/coding-/tree/master/0457-circular-array-loop) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0900-reordered-power-of-2](https://github.com/Abhik-Chakraborty/coding-/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/Abhik-Chakraborty/coding-/tree/master/0904-fruit-into-baskets) |
@@ -417,6 +418,7 @@
 | [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Abhik-Chakraborty/coding-/tree/master/0457-circular-array-loop) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0567-permutation-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhik-Chakraborty/coding-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0868-push-dominoes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0868-push-dominoes) |
@@ -467,6 +469,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Abhik-Chakraborty/coding-/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Abhik-Chakraborty/coding-/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Abhik-Chakraborty/coding-/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0796-rotate-string) |
@@ -616,6 +619,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhik-Chakraborty/coding-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Abhik-Chakraborty/coding-/tree/master/0904-fruit-into-baskets) |
