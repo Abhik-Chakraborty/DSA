@@ -3,18 +3,17 @@ class Solution {
         int n = nums.length;
         int[] result = new int[n];
 
-        //prfix and suffix approach: 
-        //prefix
-        result[0] = 1;
-        for(int i = 1; i < n; i++){
-            result[i] = result[i - 1] * nums[i - 1];
+        int leftProduct = 1;
+        for(int i = 0; i < n; i++){
+            result[i] = leftProduct;
+            leftProduct = leftProduct * nums[i];
         }
 
-        //suffix
-        int suffix = 1;
+        int rightProduct = 1;
         for(int i = n - 1; i >= 0; i--){
-            result[i] = result[i] * suffix;
-            suffix *= nums[i];
+            result[i] = rightProduct * result[i];
+
+            rightProduct = rightProduct * nums[i];
         }
         return result;
     }
