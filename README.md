@@ -166,6 +166,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Abhik-Chakraborty/coding-/tree/master/3321-type-of-triangle) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhik-Chakraborty/coding-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Abhik-Chakraborty/coding-/tree/master/3430-count-days-without-meetings) |
@@ -285,6 +286,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhik-Chakraborty/coding-/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhik-Chakraborty/coding-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Abhik-Chakraborty/coding-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhik-Chakraborty/coding-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -513,6 +515,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Abhik-Chakraborty/coding-/tree/master/2833-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/Abhik-Chakraborty/coding-/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhik-Chakraborty/coding-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhik-Chakraborty/coding-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Abhik-Chakraborty/coding-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/Abhik-Chakraborty/coding-/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -694,6 +697,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhik-Chakraborty/coding-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhik-Chakraborty/coding-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1005,6 +1009,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhik-Chakraborty/coding-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhik-Chakraborty/coding-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Abhik-Chakraborty/coding-/tree/master/1753-path-with-minimum-effort) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Abhik-Chakraborty/coding-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Rolling Hash
 |  |
 | ------- |
