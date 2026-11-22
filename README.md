@@ -505,6 +505,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhik-Chakraborty/coding-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhik-Chakraborty/coding-/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Abhik-Chakraborty/coding-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhik-Chakraborty/coding-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhik-Chakraborty/coding-/tree/master/2292-counting-words-with-a-given-prefix) |
